@@ -1,0 +1,101 @@
+.heading{
+    text-align: center;
+    text-decoration: wavy underline;
+    color: brown;
+    
+}
+p{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    background-color: aqua;
+    /* width: 50%; */
+}
+button{
+    background-color: aqua;
+    width: 100px;
+    text-align: center;
+    
+    
+}
+body{
+    background-color: grey;
+
+}
+.box{
+    text-align: left;
+    background-color: green;
+    margin-bottom: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    border: 5px;
+    border-color: aqua;
+    border-style: dashed;
+    border-radius: 20px;
+    padding: 50px;
+  
+
+
+}
+.innerbox{
+      
+    border: 3px;
+    border-color: rgb(227, 147, 147);
+    border-style: dashed;
+    border-radius: 50%;
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+a{
+    text-decoration: white wavy underline;
+    color: blue;
+    margin-right: 200px;
+}
+div .innerbox{
+   display: inline-flex;
+   /* list-style: none; */
+   /* display: inline; */
+}
+#navber{
+    background-color: black;
+    height: 50px;
+    
+}
+#logo{
+    color: chocolate;
+    
+}
+#icon{
+    color: deeppink;
+
+}
+footer{
+    margin-top: 20px;
+    background-color: chocolate;
+    color: aliceblue;
+}
+fieldset{
+    border: 3px;
+    border-color: black;
+    border-style: dotted;
+}
+
+.percentage1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    /* padding: 50px; */
+    
+}
+.percentage2{
+    height: 50px;
+    /* width: 50px; */
+    background-color: crimson;
+    /* padding: 50px; */
+}

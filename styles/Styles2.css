@@ -1,0 +1,69 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    color:black;
+    text-decoration: chocolate wavy underline;
+}
+
+#logo{
+    color: brown;
+}
+#icon{
+    color: green;
+}
+.style1{
+    background-color: black;
+    height: 50px;
+    
+}
+a{
+    margin-right: 200px;
+}
+button{
+    background-color: aqua;
+}
+p{
+   
+}
+#div1{
+    background-color: darkgreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-top: 60px;
+}
+#div2{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-top: 60px;
+}
+#div3{
+   background-color: coral; 
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   padding-left: 50px;
+   padding-top: 60px;
+}
+.peragraph div{
+    display: inline-flex;
+   
+    /* display: inline-flex; */
+}
+.peragraph{
+    background-color: chartreuse;
+    line-height: 30px;
+    border: 3px;
+    border-color: black;
+    border-style: dashed;
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
